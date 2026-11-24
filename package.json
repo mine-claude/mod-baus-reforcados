@@ -1,0 +1,15 @@
+{
+  "name": "baus_reforcados",
+  "version": "0.1.0",
+  "description": "Baús maiores em três níveis (ferro 54, ouro 81, diamante 108 slots) e kits que melhoram um baú já colocado sem tirar os itens. Inspirado na mecânica de baús em níveis; arte e código originais, pintados por código.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
